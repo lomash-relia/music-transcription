@@ -1,0 +1,152 @@
+Epoch: 1
+Training Loss: 2.743196954716937
+-------
+Epoch: 2
+Training Loss: 1.5118853104383225
+-------
+Epoch: 3
+Training Loss: 1.055802270006429
+-------
+Epoch: 4
+Training Loss: 0.838565060595964
+-------
+Epoch: 5
+Training Loss: 0.7408489200138363
+-------
+Epoch: 6
+Training Loss: 0.6056779204058751
+-------
+Epoch: 7
+Training Loss: 0.4780465437367163
+-------
+Epoch: 8
+Training Loss: 0.40024443843432433
+-------
+Epoch: 9
+Training Loss: 0.3500979015594061
+-------
+Epoch: 10
+Training Loss: 0.39138390511329807
+-------
+Epoch: 11
+Training Loss: 0.33004806001936005
+-------
+Epoch: 12
+Training Loss: 0.32378070204220427
+-------
+Epoch: 13
+Training Loss: 0.1547286167137874
+-------
+Epoch: 14
+Training Loss: 0.1702088583037313
+-------
+Epoch: 15
+Training Loss: 0.2719938988761986
+-------
+Epoch: 16
+Training Loss: 0.18402639841810775
+-------
+Epoch: 17
+Training Loss: 0.11732686112706399
+-------
+Epoch: 18
+Training Loss: 0.21990345014001308
+-------
+Epoch: 19
+Training Loss: 0.04407025374135313
+-------
+Epoch: 20
+Training Loss: 0.18194140038471487
+-------
+Epoch: 21
+Training Loss: 0.31990106531894097
+-------
+Epoch: 22
+Training Loss: 0.06631559722660983
+-------
+Epoch: 23
+Training Loss: 0.1925736538885849
+-------
+Epoch: 24
+Training Loss: 0.06637087375853437
+-------
+Epoch: 25
+Training Loss: 0.17362258108584336
+-------
+Epoch: 26
+Training Loss: 0.034846985537131454
+-------
+Epoch: 27
+Training Loss: 0.024917318859432915
+-------
+Epoch: 28
+Training Loss: 0.20441049928097058
+-------
+Epoch: 29
+Training Loss: 0.046428452330411145
+-------
+Epoch: 30
+Training Loss: 0.1478407239696543
+-------
+Epoch: 31
+Training Loss: 0.06042427822843396
+-------
+Epoch: 32
+Training Loss: 0.015430175914054592
+-------
+Epoch: 33
+Training Loss: 0.016406378786706352
+-------
+Epoch: 34
+Training Loss: 0.19951083081119084
+-------
+Epoch: 35
+Training Loss: 0.07019826651161117
+-------
+Epoch: 36
+Training Loss: 0.018583267921640556
+-------
+Epoch: 37
+Training Loss: 0.04640116426236441
+-------
+Epoch: 38
+Training Loss: 0.11376122506123887
+-------
+Epoch: 39
+Training Loss: 0.08247203530149844
+-------
+Epoch: 40
+Training Loss: 0.03641505754158267
+-------
+Epoch: 41
+Training Loss: 0.010173797744253464
+-------
+Epoch: 42
+Training Loss: 0.007891362539700918
+-------
+Epoch: 43
+Training Loss: 0.005753605728743534
+-------
+Epoch: 44
+Training Loss: 0.04315836092083263
+-------
+Epoch: 45
+Training Loss: 0.23751653687159505
+-------
+Epoch: 46
+Training Loss: 0.08316629844333137
+-------
+Epoch: 47
+Training Loss: 0.08272580138305195
+-------
+Epoch: 48
+Training Loss: 0.006874657336833692
+-------
+Epoch: 49
+Training Loss: 0.006281226780888495
+-------
+Epoch: 50
+Training Loss: 0.005322644052424479
+-------
+Training Completed
+Model Saved
