@@ -10,7 +10,7 @@ This repository contains a simple Convolutional Neural Network (CNN) model that 
 ## Getting Started
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/lomash-relia/music-transcription-model.git
+   git clone https://github.com/lomash-relia/music-transcription.git
    ```
 
 2. **Install Dependencies:**
